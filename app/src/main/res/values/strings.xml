@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Expandable listview</string>
+
+    <string-array name="header_name">
+
+        <item>AC</item>
+        <item>GOC</item>
+        <item>ATM</item>
+        <item>ABM </item>
+        <item>AD</item>
+        <item>AIFF </item>
+        <item>AICC  </item>
+        <item>AICTE</item>
+        <item>AIDS</item>
+        <item>APEC</item>
+        <item>APSE </item>
+        <item>ASSOCHAM </item>
+        <item>AC</item>
+        <item>GOC</item>
+        <item>ATM</item>
+        <item>ABM </item>
+        <item>AD</item>
+        <item>AIFF </item>
+        <item>AICC  </item>
+        <item>AICTE</item>
+        <item>AIDS</item>
+        <item>APEC</item>
+        <item>APSE </item>
+        <item>ASSOCHAM </item>
+
+    </string-array>
+
+
+    <string-array name="child_name">
+
+        <item>Alternate Current</item>
+        <item>Asian Games Organisation Committee</item>
+        <item>Automated Teller Machine</item>
+        <item>Anti-Ballistic Missile</item>
+        <item>Authorized Dealer</item>
+        <item>All India Football Federation </item>
+        <item>All India Congress Committee  </item>
+        <item>All India Council of Technical Education</item>
+        <item>Acquired Immuno Deficiency Syndrome</item>
+        <item>Asia Pacific Economic Cooperation</item>
+        <item>Army Postal Services Core </item>
+        <item>Associated Chambers of Commerce and Industry Of India </item>
+        <item>Alternate Current</item>
+        <item>Asian Games Organisation Committee</item>
+        <item>Automated Teller Machine</item>
+        <item>Anti-Ballistic Missile</item>
+        <item>Authorized Dealer</item>
+        <item>All India Football Federation </item>
+        <item>All India Congress Committee  </item>
+        <item>All India Council of Technical Education</item>
+        <item>Acquired Immuno Deficiency Syndrome</item>
+        <item>Asia Pacific Economic Cooperation</item>
+        <item>Army Postal Services Core </item>
+        <item>Associated Chambers of Commerce and Industry Of India </item>
+
+    </string-array>
+</resources>
